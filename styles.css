@@ -1,0 +1,57 @@
+*{
+	padding: 0px; margin: 0px;
+	font-family: 'Itim', cursive;
+
+}
+
+h1{
+	font-size: 6.5rem;
+	margin: 35px;
+	text-shadow: 5px 5px white;
+	font-family: 'Dancing Script', cursive;
+	color: yellow;
+}
+body{
+	margin: auto;
+	background-color:  rgb(64, 64, 64);
+	text-align: center;
+}
+
+.p1{
+	color: rgb(178, 252, 255);
+	display: inline-block;
+	margin-right: 210px;
+}
+.p2{
+	color: rgb(178, 252, 255);
+	display: inline-block;
+	margin-right: 260px;
+}
+.p3{
+	color: rgb(178, 252, 255);
+	display: inline-block;
+	margin-left: 70px;
+}
+.p4{
+color: rgb(178, 252, 255);
+	display: inline-block;
+	margin-right: 210px;
+}
+.p5{
+	color: rgb(178, 252, 255);
+	display: inline-block;
+	margin-right: 260px;
+}
+.p6{
+	color: rgb(178, 252, 255);
+	display: inline-block;
+	margin-left: 70px;
+}
+img{
+	height: 260px;width: 260px;
+}
+
+button{
+	font-family: 'Libre Baskerville', serif;
+	font-size: 2rem;
+}
